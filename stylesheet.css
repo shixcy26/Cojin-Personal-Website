@@ -52,22 +52,22 @@ a:hover {
     top: -50px;
 }
 
-.gallery img {
+/* .gallery img { */
     /* height: 50vh; */
-    object-fit: cover;
+    /* object-fit: cover; */
     /* max-width: 30vw; */
     /* width:100%; */
     /* padding: 0px; */
     /* position: center; */
-    position: absolute;
+    /* position: absolute;
     left: 50%;
-    top: 50%;
+    top: 50%; */
     /* height: 100%;
     width: auto; */
-    -webkit-transform: translate(-50%, -50%);
+    /* -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-}
+} */
 
 .portrait {
     width: 100%;
@@ -82,7 +82,7 @@ a:hover {
 .square {
     object-fit: cover;
     width: 100%;
-    /* height: 100%; */
+    height: 100%;
 }
 
 .gallery {
